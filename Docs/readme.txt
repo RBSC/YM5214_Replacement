@@ -9,7 +9,7 @@ About
 This project's goal was to emulate Yamaha's YM5214 MMC chip that is used in CX5M and similar MSX1 computers as a
 memory controller. These chips start to fail in the recent years, so it's good to have an alternative to keep our
 CX5Ms alive. The design of this circuit board was inspired by a similar project by MetalGear2, whose website can
-be found here: http://mymsx2.free.fr/
+be found here: http://mymsx2.free.fr/menu2_msx.html
 
 
 Assembling and Installing
